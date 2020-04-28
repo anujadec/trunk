@@ -9,4 +9,4 @@
   </ul>
 </nav>
 
-Added new text from repository
+Added new text from repository concated text from clone
