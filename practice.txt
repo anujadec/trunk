@@ -8,3 +8,5 @@
     <li><a href="#">Contact Us</a></li>
   </ul>
 </nav>
+
+Added new text from repository
